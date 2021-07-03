@@ -1,0 +1,5 @@
+2-2
+1. go to css project file
+2. for style( go to header: style for paragraph: p{ color:green; } . (same for other tsgs)
+3. 
+
